@@ -5,7 +5,7 @@ I'm **Bisma Raza**, a WordPress Web Designer with 2.5 years of experience and a 
 ### 💻 Skills
 - WordPress website design  
 - Modern, responsive layouts  
-- LearnDash & LMS customization  
+- Tutor LMS & LMS customization  
 
 ### 🌱 Learning
 - Advanced WP customization  
@@ -14,6 +14,6 @@ I'm **Bisma Raza**, a WordPress Web Designer with 2.5 years of experience and a 
 
 ### 📬 Contact
 - Email: **query@bismaraa.com**  
-- LinkedIn: **linkedin.com/in/bismawebdesigner**
+- LinkedIn: **https://www.linkedin.com/in/bismawebdesigner/**
 
 Thanks for visiting! 😊
