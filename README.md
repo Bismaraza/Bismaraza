@@ -5,8 +5,7 @@ Currently a 5th-semester student at the University of Mianwali (CGPA: 3.7).
 
 ### 💻 What I Do
 - Design and build responsive WordPress websites  
-- Customize themes and plugins  
-- Create modern, user-friendly UI/UX layouts  
+- Create modern, user-friendly websites 
 - Build course websites using LearnDash & LMS tools
 
 ### 🌱 What I’m Learning
@@ -19,7 +18,7 @@ Currently a 5th-semester student at the University of Mianwali (CGPA: 3.7).
 - Collaborations on WordPress or web-design-related work
 
 ### 📬 Contact Me
-- Email: **your email here**  
-- LinkedIn: **your link here**
+- Email: **query@bismaraa.com**  
+- LinkedIn: **https://www.linkedin.com/in/bismawebdesigner/**
 
 Thanks for visiting my profile! 😊
