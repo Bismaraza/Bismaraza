@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Bismaraza/Bismaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bisma Raza**, a WordPress Web Designer with 2.5 years of experience.  
+Currently a 5th-semester student at the University of Mianwali (CGPA: 3.7).
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- Design and build responsive WordPress websites  
+- Customize themes and plugins  
+- Create modern, user-friendly UI/UX layouts  
+- Build course websites using LearnDash & LMS tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning
+- Advanced WordPress customization  
+- Front-end skills to enhance my designs  
+- Improving website performance and SEO
+
+### 🤝 I’m Open To
+- Freelance projects  
+- Collaborations on WordPress or web-design-related work
+
+### 📬 Contact Me
+- Email: **your email here**  
+- LinkedIn: **your link here**
+
+Thanks for visiting my profile! 😊
