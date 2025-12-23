@@ -10,9 +10,8 @@ Visit my portfolio website for more insights.
 - Tutor LMS & LMS customization  
 
 ### 🌱 Learning
-- Advanced WP customization  
-- Front-end enhancement  
-- SEO & performance optimization  
+- AI/ML
+- Right Now (Python) 
 
 ### 📬 Contact
 - Email: **query@bismaraa.com**  
