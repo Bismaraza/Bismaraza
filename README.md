@@ -7,11 +7,12 @@ Visit my portfolio website for more insights.
 ### 💻 Skills
 - WordPress website design  
 - Modern, responsive layouts  
-- Tutor LMS & LMS customization  
+- Tutor LMS & LMS customization
+- WooCommerce expert
 
 ### 🌱 Learning
-- AI/ML
-- Right Now (Python) 
+- Web Development
+- Now ( CSS )
 
 ### 📬 Contact
 - Email: **query@bismaraa.com**  
