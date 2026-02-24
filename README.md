@@ -12,7 +12,7 @@ Visit my portfolio website for more insights.
 
 ### 🌱 Learning
 - Web Development
-- Now ( CSS )
+- Now ( JS )
 
 ### 📬 Contact
 - Email: **query@bismaraa.com**  
