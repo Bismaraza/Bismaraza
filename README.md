@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Bisma Raza**, a WordPress Web Designer with 2.5 years of experience and a 5th-semester student at the University of Mianwali (CGPA: 3.7). 
+I'm **Bisma Raza**, a WordPress Web Designer with 2.5 years of experience and a 5th-semester student at the University of Mianwali (CGPA: 3.74). 
 Visit my portfolio website for more insights.
 - Website: **https://bismaraza.com/**
 
@@ -11,8 +11,7 @@ Visit my portfolio website for more insights.
 - WooCommerce expert
 
 ### 🌱 Learning
-- Web Development
-- Now ( JS )
+- DSA with Java
 
 ### 📬 Contact
 - Email: **query@bismaraa.com**  
