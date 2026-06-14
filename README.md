@@ -30,7 +30,7 @@ Website: https://bismaraza.com/
 * Email: [query@bismaraa.com](mailto:query@bismaraa.com)
 * LinkedIn: https://www.linkedin.com/in/bismawebdesigner/
 * Facebook: https://www.facebook.com/bismaraza0
-* Instagram: 
+* Instagram: https://www.instagram.com/bisma_razaa00/
 
 ### 🎯 Current Goal
 
