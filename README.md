@@ -32,6 +32,3 @@ Website: https://bismaraza.com/
 * Facebook: https://www.facebook.com/bismaraza0
 * Instagram: https://www.instagram.com/bisma_razaa00/
 
-### 🎯 Current Goal
-
-Seeking internship opportunities to gain industry experience and contribute to real-world software development projects.
