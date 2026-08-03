@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Bisma Raza**, a BS Software Engineering student at the University of Mianwali (CGPA: 3.74) and a developer passionate about building web applications, software systems, and AI-based solutions.
+I'm **Bisma Raza**, a BS Software Engineering student at the University of Mianwali (CGPA: 3.69) and a developer passionate about building web applications, software systems, and AI-based solutions.
 
 🌱 Currently improving my skills in Software Engineering, Java Development, Web Development, and Machine Learning.
 
